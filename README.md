@@ -12,3 +12,5 @@ http://ncatlab.org/nlab/show/type+theory
 http://stackoverflow.com/questions/11054943/intense-study-of-type-systems-type-theory
 
 https://www.fpcomplete.com/user/bartosz/understanding-yoneda#natural-transformations
+
+http://bartoszmilewski.com/category/category-theory/
