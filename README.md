@@ -21,3 +21,6 @@ http://bartoszmilewski.com/category/category-theory/
     Dan Pipone, Neighborhood of Infinity. Interesting blog with a lot of insights into category theory and Haskell.
     Eugenio Moggi, Notions of Computation and Monads. This is a hard core research paper that started the whole monad movement in functional languages.
     Philip Wadler, Monads for Functional Programming. The classic paper introducing monads into Haskell.
+
+
+Pierre-Louis Curien - http://www.pps.univ-paris-diderot.fr/~curien/
