@@ -28,3 +28,6 @@ François Pottier - http://gallium.inria.fr/~fpottier/
 Yves Bertot - http://www-sop.inria.fr/lemme/Yves.Bertot/old-index.html
 Pierre Castéran - http://www.labri.fr/perso/casteran/
 Lambda-calculs et catégories Cours M1.20  - http://www.pps.univ-paris-diderot.fr/~mellies/mpri-ens.html
+http://www.pps.univ-paris-diderot.fr/~mellies/
+Linear Logic - http://www.dicosmo.org/CourseNotes/LinLog/
+Type systems - http://gallium.inria.fr/~remy/mpri/
