@@ -27,3 +27,4 @@ Pierre-Louis Curien - http://www.pps.univ-paris-diderot.fr/~curien/
 François Pottier - http://gallium.inria.fr/~fpottier/
 Yves Bertot - http://www-sop.inria.fr/lemme/Yves.Bertot/old-index.html
 Pierre Castéran - http://www.labri.fr/perso/casteran/
+Lambda-calculs et catégories Cours M1.20  - http://www.pps.univ-paris-diderot.fr/~mellies/mpri-ens.html
