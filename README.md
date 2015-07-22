@@ -24,3 +24,6 @@ http://bartoszmilewski.com/category/category-theory/
 
 
 Pierre-Louis Curien - http://www.pps.univ-paris-diderot.fr/~curien/
+François Pottier - http://gallium.inria.fr/~fpottier/
+Yves Bertot - http://www-sop.inria.fr/lemme/Yves.Bertot/old-index.html
+Pierre Castéran - http://www.labri.fr/perso/casteran/
