@@ -32,4 +32,4 @@ http://www.pps.univ-paris-diderot.fr/~mellies/
 Linear Logic - http://www.dicosmo.org/CourseNotes/LinLog/
 Type systems - http://gallium.inria.fr/~remy/mpri/
 
-http://tutorials.jenkov.com/java-util-concurrent/index.html
+java-concurrent - http://tutorials.jenkov.com/java-util-concurrent/index.html
