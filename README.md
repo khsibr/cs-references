@@ -35,3 +35,7 @@ Type systems - http://gallium.inria.fr/~remy/mpri/
 java-concurrent - http://tutorials.jenkov.com/java-util-concurrent/index.html
 
 Applications of Parallel Computers - https://www.youtube.com/playlist?list=PLkFD6_40KJIyX8nEjk6oTLWohdVhjjP3X
+
+CS262a: Advanced Topics in Computer Systems - http://bnrg.cs.berkeley.edu/~adj/cs262/
+
+
