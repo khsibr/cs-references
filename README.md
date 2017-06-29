@@ -33,3 +33,5 @@ Linear Logic - http://www.dicosmo.org/CourseNotes/LinLog/
 Type systems - http://gallium.inria.fr/~remy/mpri/
 
 java-concurrent - http://tutorials.jenkov.com/java-util-concurrent/index.html
+
+Applications of Parallel Computers - https://www.youtube.com/playlist?list=PLkFD6_40KJIyX8nEjk6oTLWohdVhjjP3X
