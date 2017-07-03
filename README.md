@@ -36,6 +36,9 @@ java-concurrent - http://tutorials.jenkov.com/java-util-concurrent/index.html
 
 Applications of Parallel Computers - https://www.youtube.com/playlist?list=PLkFD6_40KJIyX8nEjk6oTLWohdVhjjP3X
 
+Distributed:
+-----------
 CS262a: Advanced Topics in Computer Systems - http://bnrg.cs.berkeley.edu/~adj/cs262/
-
+Paxos lecture (Raft user study) https://www.youtube.com/watch?v=JEpsBg0AO6o
+Exactly-once Semantics - https://www.confluent.io/blog/exactly-once-semantics-are-possible-heres-how-apache-kafka-does-it/
 
