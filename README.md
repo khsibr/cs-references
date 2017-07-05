@@ -42,3 +42,4 @@ CS262a: Advanced Topics in Computer Systems - http://bnrg.cs.berkeley.edu/~adj/c
 Paxos lecture (Raft user study) https://www.youtube.com/watch?v=JEpsBg0AO6o
 Exactly-once Semantics - https://www.confluent.io/blog/exactly-once-semantics-are-possible-heres-how-apache-kafka-does-it/
 Kafka/Cassandra - https://www.youtube.com/watch?v=s3GfXTnzG_Y
+A collection of links for streaming algorithms and data structures - https://gist.github.com/debasishg/8172796
